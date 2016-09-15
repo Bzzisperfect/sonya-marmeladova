@@ -50,7 +50,7 @@ console.log(stonik);
 var stonik={
 	"azazel":111,
 	"velial":"squad",
-	"mefisto":3.20,
+	"mefisto":3.21,
 	"lucifer":true,
 	"LaVey":{bible:111,church:"burn"}
 }
